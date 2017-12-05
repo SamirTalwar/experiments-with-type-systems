@@ -1,0 +1,13 @@
+{
+  "name": "experiments-with-type-systems",
+  "version": "1.0.0",
+  "author": "Samir Talwar <samir@noodlesandwich.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^1.9.0"
+  },
+  "workspaces": [
+    "ava"
+  ]
+}
