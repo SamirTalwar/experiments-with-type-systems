@@ -1,0 +1,11 @@
+{
+  "name": "sanctuary-experiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "ava": "^0.24.0",
+    "sanctuary-def": "^0.13.1"
+  }
+}
