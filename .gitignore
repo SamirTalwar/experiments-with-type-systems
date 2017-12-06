@@ -1,1 +1,14 @@
+# Gradle
+.gradle
+gradle-wrapper.jar
+build
+
+# IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+out
+
+# node.js
 node_modules
